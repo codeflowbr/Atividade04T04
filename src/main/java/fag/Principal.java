@@ -10,16 +10,16 @@ public class Principal {
 		System.out.println("=== ATIVIDADE JAVA BÁSICO - 10 QUESTÕES ===\n");
 		
 		// Executar todas as questões
-		questao1_Scanner(scan);
+//		questao1_Scanner(scan);
 		questao2_Print();
-		questao3_For();
-		questao4_If(scan);
-		questao5_While(scan);
-		questao6_Metodos();
-		questao7_ScannerIf(scan);
-		questao8_ForPrint();
-		questao9_WhileScanner(scan);
-		questao10_MetodosFor();
+//		questao3_For();
+//		questao4_If(scan);
+//		questao5_While(scan);
+//		questao6_Metodos();
+//		questao7_ScannerIf(scan);
+//		questao8_ForPrint();
+//		questao9_WhileScanner(scan);
+//		questao10_MetodosFor();
 		
 		scan.close();
 	}
